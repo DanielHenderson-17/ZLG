@@ -1,0 +1,14 @@
+{
+  "name": "die_elly_come_hit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "vy",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
